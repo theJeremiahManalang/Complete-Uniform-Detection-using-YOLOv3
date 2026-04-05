@@ -17,7 +17,7 @@ This project implements a **uniform detection system** that identifies required 
 
 The system is trained using **YOLOv3** in **Google Colab**. Upon successful verification of a complete uniform, a **miniature gate powered by Arduino Uno** automatically opens, demonstrating end-to-end automation.
 
-![Uniform Detection Demo](https://via.placeholder.com/600x300?text=Uniform+Detection+Demo)
+![Uniform Detection Demo](images/complete-uniform-arduino.jpg)
 
 ---
 
